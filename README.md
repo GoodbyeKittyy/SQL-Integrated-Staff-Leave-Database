@@ -1,7 +1,8 @@
-![image](https://github.com/GoodbyeKittyy/Accounts-Ledger-Database/assets/161730857/cabde8a9-c372-48d7-a208-e563c4fff258)
+![image](https://github.com/GoodbyeKittyy/SQL-Integrated-Staff-Leave-Database/assets/161730857/7f76d3c6-a4c1-415c-9ca6-7a111f4e1067)
+
 
  ## Description
 
-This project was created using Microsoft Access. 
+This project was created using Microsoft Access and integrated with SQL. 
 
-The accounts ledger serves as a central hub for managing financial activities, facilitating effective financial management and reporting. Users are able to analyze financial data through queries and generate reports for better decision-making. A general ledger represents the record-keeping system for a company's financial data, with debit and credit account records validated by a trial balance. The database helps to organize and streamline financial processes, enhancing overall efficiency and transparency.
+Built on SQL technology, the database is scalable and helps users maintain a centralized repository of staff leave data, including leave balances, types of leave, and historical leave records. The application takes care of different modules and their associated reports, which are produced as per the applicable strategies and standards that are put forwarded by the administrative staff. The entire project has been developed keeping in view of the distributed client server computing technology, in mind.
